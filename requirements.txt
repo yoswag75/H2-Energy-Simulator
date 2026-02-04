@@ -1,0 +1,22 @@
+# Quantum Molecule Explorer - Dependencies
+# Core framework
+streamlit>=1.28.0
+numpy>=1.24.0
+plotly>=5.15.0
+
+# Quantum computing stack
+qiskit>=1.0.0
+qiskit-aer>=0.12.0
+qiskit-ibm-runtime>=0.13.0
+
+# Scientific computing
+scipy>=1.10.0
+matplotlib>=3.7.0
+
+# Data handling
+pandas>=2.0.0
+
+# Development & utilities
+warnings
+json
+time
